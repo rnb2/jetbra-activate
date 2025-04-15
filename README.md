@@ -11,14 +11,14 @@ Open the terminal on MacOS/Linux; Open Git Bash on Windows. Then execute the fol
 
 Method 1: Install via GitHub script
 ```shell
-bash <(curl -Lk https://github.com/kingparks/jetbra-activate/releases/download/latest/i.sh) githubReadme
+bash <(curl -Lk https://github.com/rnb2/jetbra-activate/releases/download/latest/i.sh) githubReadme
 ```
 Method 2: Install via Gitee script
 ```shell
-bash <(curl -Lk https://gitee.com/kingparks/jetbra-activate/releases/download/latest/ic.sh) githubReadme
+bash <(curl -Lk https://gitee.com/rnb2/jetbra-activate/releases/download/latest/ic.sh) githubReadme
 ```
 Method 3: Manually download the binary file
-> Download the binary file for the corresponding operating system from the [release](https://github.com/kingparks/jetbra-activate/releases) page
+> Download the binary file for the corresponding operating system from the [release](https://github.com/rnb2/jetbra-activate/releases) page
  ```shell
 # MaxOS/Linux
 sudo mv jetbra_xx_xxx /usr/local/bin/jetbra;
@@ -29,7 +29,7 @@ jetbra githubReadme;
 ```
 Method 4: Install via go install 
 ```shell
-go run github.com/kingparks/jetbra-activate@latest githubGoReadme;
+go run github.com/rnb2/jetbra-activate@latest githubGoReadme;
 ```
 
 ---
@@ -49,10 +49,10 @@ By promoting jetbra-activate, you can automatically get up to an unlimited amoun
 ---
 
 ### Star History
-<a href="https://star-history.com/#kingparks/jetbra-activate&Date">
+<a href="https://star-history.com/#rnb2/jetbra-activate&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=kingparks/jetbra-activate&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=kingparks/jetbra-activate&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=kingparks/jetbra-activate&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=rnb2/jetbra-activate&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=rnb2/jetbra-activate&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=rnb2/jetbra-activate&type=Date" />
  </picture>
 </a>

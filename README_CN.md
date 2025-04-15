@@ -11,14 +11,14 @@ Jetbra Active 是一个 JetBrains IDE 激活工具，可以帮助你快速激活
 
 方式1：通过 Gitee 脚本
 ```shell
-bash <(curl -Lk https://gitee.com/kingparks/jetbra-activate/releases/download/latest/ic.sh) githubReadme
+bash <(curl -Lk https://gitee.com/rnb2/jetbra-activate/releases/download/latest/ic.sh) githubReadme
 ```
 方式2：通过 GitHub 脚本
 ```shell
-bash <(curl -Lk https://github.com/kingparks/jetbra-activate/releases/download/latest/i.sh) githubReadme
+bash <(curl -Lk https://github.com/rnb2/jetbra-activate/releases/download/latest/i.sh) githubReadme
 ```
 方式3：手动下载二进制文件
-> 从 [release](https://github.com/kingparks/jetbra-activate/releases) 页下载对应操作系统的二进制文件
+> 从 [release](https://github.com/rnb2/jetbra-activate/releases) 页下载对应操作系统的二进制文件
  ```shell
 # MaxOS/Linux
 sudo mv jetbra_xx_xxx /usr/local/bin/jetbra;
@@ -29,7 +29,7 @@ jetbra githubReadme;
 ```
 方式4：通过 go install 安装方式
 ```shell
-go run github.com/kingparks/jetbra-activate@latest githubGoReadme;
+go run github.com/rnb2/jetbra-activate@latest githubGoReadme;
 ```
 
 ---
@@ -47,10 +47,10 @@ go run github.com/kingparks/jetbra-activate@latest githubGoReadme;
 3. 在相关 JetBrains 文章或视频下面评论 例如："可以配合 github 的 [你的github名字]/jetbra-activate 低价或白嫖"
 ---
 ### Star History
-<a href="https://star-history.com/#kingparks/jetbra-activate&Date">
+<a href="https://star-history.com/#rnb2/jetbra-activate&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=kingparks/jetbra-activate&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=kingparks/jetbra-activate&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=kingparks/jetbra-activate&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=rnb2/jetbra-activate&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=rnb2/jetbra-activate&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=rnb2/jetbra-activate&type=Date" />
  </picture>
 </a>
